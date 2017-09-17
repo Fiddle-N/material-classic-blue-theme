@@ -1,10 +1,8 @@
 # Material Classic Blue Theme
 
-A flat Classic Blue theme for the Material Design version of Chrome. 
+A flat Classic Blue theme for Chrome. 
 
-This theme works best with a blue coloured titlebar. Unfortunately, Chrome limitations means that I cannot colour the titlebar without introducing Windows 7 Minimise, Maximise and Close buttons on later versions of Windows. A future Chrome update will auto-enable this feature; when that update has been pushed to most people, it will be the right time to update this theme. 
-
-For the time being, on Windows 10 (version 1511), you can go to the Settings app -> Personalisation -> Colours, choose one of the two shades of blue in the third column of colours, and then toggle on "Show colour on Start, taskbar, action centre and title bar". This will colour the titlebar blue to match the Material Classic Blue theme. For other OSs, please consult alternative documentation.
+**Windows 10 users - please go to chrome://flags, scroll down to Custom-drawn Windows 10 Titlebar and press Enable. This will enable titlebar colour.**
 
 Please leave comments about my theme if you wish; I enjoy seeing feedback.
 
