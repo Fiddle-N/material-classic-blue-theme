@@ -3,16 +3,9 @@
 
 	"name": "Material Classic Blue Theme",	
 	"description": "A flat Classic Blue theme for Chrome.",
-	"version": "3.1.1",
+	"version": "4.0.0",
 
 	"theme": {
-		"images": {
-			"theme_ntp_background": "images/theme_ntp_background.png",
-			"theme_tab_background": "images/theme_tab_background.png",
-			"theme_tab_background_v": "images/theme_tab_background.png",
-			"theme_tab_background_incognito": "images/theme_tab_background_incognito.png",
-			"theme_toolbar": "images/theme_toolbar.png"
-		},
 		"colors": {
 			"frame": [83, 152, 236],
 			"frame_inactive": [158, 194, 239],
