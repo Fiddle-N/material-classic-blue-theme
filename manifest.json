@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
 
-	"name": "Material Classic Blue Theme",	
+	"name": "Material Classic Blue Theme",
 	"description": "A flat Classic Blue theme for Chrome.",
-	"version": "4.0.0",
+	"version": "5.0.0",
 
 	"theme": {
 		"colors": {

@@ -1,6 +1,6 @@
 # Material Classic Blue Theme
 
-A flat Classic Blue theme for Chrome. 
+Updated for the new Chrome redesign! Please update to Chrome v69 for full compatibility with this theme.
 
 ### Installation
 Install the theme from the Chrome Web Store [here](https://chrome.google.com/webstore/detail/material-classic-blue-the/odbiochpladnknjeddpnheigjgdaehab).
