@@ -3,7 +3,7 @@
 
 	"name": "Material Classic Blue Theme",
 	"description": "A flat Classic Blue theme for Chrome.",
-	"version": "5.2.0",
+	"version": "5.2.1",
 
 	"theme": {
 		"colors": {
@@ -13,6 +13,9 @@
 		},
 		"tints": {
 			"buttons": [0.591, 0.318, 0.541]
+		}
+		"properties": {
+			"ntp_logo_alternate": 0
 		}
 	}
 }
