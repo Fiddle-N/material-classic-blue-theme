@@ -3,16 +3,17 @@
 
 	"name": "Material Classic Blue Theme",
 	"description": "A flat Classic Blue theme for Chrome.",
-	"version": "5.2.2",
+	"version": "5.3.0",
 	"theme": {
 		"colors": {
-			"frame": [76, 147, 233],
+			"frame": [68, 135, 212],
 			"frame_inactive": [158, 194, 239],
 			"frame_incognito": [87, 112, 151],
 			"frame_incognito_inactive": [132, 145, 166],
 			"toolbar": [225, 236, 249],
+			"omnibox_background": [217, 227, 240],
 			"ntp_text": [2, 1, 10],
-			"tab_background_text": [ 255, 255, 255 ]
+			"tab_background_text": [255, 255, 255]
 		},
 		"tints": {
 			"buttons": [0.608, 0.745, 0.54]
